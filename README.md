@@ -2,7 +2,7 @@
 
 Global unique counters for your infrastructure.
 
-Use getnextid.com to increment your build numbers etc.
+Use https://getnextid.com to increment your build numbers etc.
 
 ## Installation
 
